@@ -1,3 +1,5 @@
+<a><img src="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/blob/main/img/bg.png" alt="Kaggle"></a>
+
 # University of Oldenburg Forecasting Methods Course Projects
 
 ## Introduction
