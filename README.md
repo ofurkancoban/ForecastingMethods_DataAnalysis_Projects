@@ -33,4 +33,4 @@ For more information about any of these projects or the course, please don't hes
 - [Your Name], Project Owner
 - ![Email](URL-to-Email-Icon) [Email](mailto:ofurkancoban@gmail.com)
 - ![LinkedIn](URL-to-LinkedIn-Icon) [LinkedIn](https://www.linkedin.com/in/ofurkancoban)
-- ![Kaggle](URL-to-Kaggle-Icon) [Kaggle](https://www.kaggle.com/ofurkancoban)
+- ![Kaggle](https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/blob/main/img/kaggle.png) [Kaggle](https://www.kaggle.com/ofurkancoban)
