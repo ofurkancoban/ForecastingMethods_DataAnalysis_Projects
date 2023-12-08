@@ -32,9 +32,12 @@ For more information about any of these projects or the course, please don't hes
 
 - Furkan Coban
 - ![Email](URL-to-Email-Icon) [Email](mailto:ofurkancoban@gmail.com)
-- ![LinkedIn](URL-to-LinkedIn-Icon) [LinkedIn](https://www.linkedin.com/in/ofurkancoban)
-- ![Kaggle](URL-to-Kaggle-Icon) [Kaggle](https://www.kaggle.com/ofurkancoban)
-
-<a href="https://www.kaggle.com/ofurkancoban" target="_blank">
+- <a href="mailto:ofurkancoban@gmail.com" target="_blank">
+    <img src="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/blob/main/img/email.png" alt="Kaggle">
+</a>
+- <a href="https://www.linkedin.com/in/ofurkancoban" target="_blank">
+    <img src="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/blob/main/img/in.png" alt="Kaggle">
+</a>
+- <a href="https://www.kaggle.com/ofurkancoban" target="_blank">
     <img src="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/blob/main/img/kaggle.png" alt="Kaggle">
 </a>
