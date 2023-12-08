@@ -21,8 +21,7 @@ Each folder in this repository represents an individual project that I've worked
 
 Throughout these projects, I have used a variety of tools and technologies, including:
 
-- R (forecast, tidyverse)
-- Visualization tools (Matplotlib, Seaborn, ggplot2)
+- R 
 
 ### Collaboration and Feedback
 
