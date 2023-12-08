@@ -30,7 +30,11 @@ While these projects are my individual efforts, I am open to collaborations and 
 
 For more information about any of these projects or the course, please don't hesitate to reach out to me:
 
-- [Your Name], Project Owner
+- Furkan Coban
 - ![Email](URL-to-Email-Icon) [Email](mailto:ofurkancoban@gmail.com)
 - ![LinkedIn](URL-to-LinkedIn-Icon) [LinkedIn](https://www.linkedin.com/in/ofurkancoban)
-- ![Kaggle](https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/blob/main/img/kaggle.png) [Kaggle](https://www.kaggle.com/ofurkancoban)
+- ![Kaggle](URL-to-Kaggle-Icon) [Kaggle](https://www.kaggle.com/ofurkancoban)
+
+<a href="https://www.kaggle.com/ofurkancoban" target="_blank">
+    <img src="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/blob/main/img/kaggle.png" alt="Kaggle">
+</a>
