@@ -30,6 +30,7 @@ While these projects are my individual efforts, I am open to collaborations and 
 ### Contact Me
 
 For more information about any of these projects or the course, please don't hesitate to reach out to me:
+ <a href="https://www.kodkampusu.com" target="_self">Denemek için bana tıkla!</a> 
 
 ### Furkan Coban
 - <a href="mailto:ofurkancoban@gmail.com" target="_blank"><img src="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/blob/main/img/email.png" alt="Kaggle"></a>
