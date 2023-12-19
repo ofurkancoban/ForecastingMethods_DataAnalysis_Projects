@@ -15,6 +15,7 @@ The Forecasting Methods course has been an incredible journey, introducing me to
 Each folder in this repository represents an individual project that I've worked on. These projects reflect my application of forecasting methods on diverse datasets, aiming to provide insights into various industries and sectors.
 
 - **Project 1:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet1_STAN_db" target="_self">STAN Database</a>_  - The STAN database is a comprehensive statistical dataset that integrates sectoral and national accounts, providing detailed insights into economic activities across various industries in different countries.
+- **Project 2:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet2_Germany_Import_Export">Export/Import Germany</a>_  - The dataset contains trade data for Germany. It's used for time series analysis, particularly focusing on exports, imports, and their price indices over time.
 
 
 ### Tools and Technologies
