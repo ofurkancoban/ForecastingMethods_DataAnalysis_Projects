@@ -1,5 +1,6 @@
 # Omer Furkan Coban
 # Forecasting Methods - Problem Set 1
+# STAN Database
 # WiSe 23/24
 
 # Library Imports ----
