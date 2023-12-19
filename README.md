@@ -16,7 +16,7 @@ Each folder in this repository represents an individual project that I've worked
 
 - **Project 1:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet1_STAN_db" target="_self">STAN Database</a>_  - The STAN database is a comprehensive statistical dataset that integrates sectoral and national accounts, providing detailed insights into economic activities across various industries in different countries.
 - **Project 2:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet2_Germany_Import_Export">Export/Import Germany</a>_  - The dataset contains trade data for Germany. It's used for time series analysis, particularly focusing on exports, imports, and their price indices over time.
-- **Project 3:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet3_Stock_Prices">Stock Prices</a>  - This is a typical for financial datasets used in the analysis of stock performance over time.
+- **Project 3:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet3_Stock_Prices">Stock Prices</a>_  - This is a typical for financial datasets used in the analysis of stock performance over time.
 
 
 ### Tools and Technologies
