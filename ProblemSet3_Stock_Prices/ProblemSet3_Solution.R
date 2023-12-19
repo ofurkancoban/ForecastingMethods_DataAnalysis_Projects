@@ -1,6 +1,6 @@
 # Omer Furkan Coban
 # Forecasting Methods - Problem Set 2
-# Germany Import - Export
+# Stock Prices
 # WiSe 23/24
 
 # Library Imports ----
