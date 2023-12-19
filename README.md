@@ -14,7 +14,7 @@ The Forecasting Methods course has been an incredible journey, introducing me to
 
 Each folder in this repository represents an individual project that I've worked on. These projects reflect my application of forecasting methods on diverse datasets, aiming to provide insights into various industries and sectors.
 
-- **Project 1:** _STAN Database_ - The STAN database is a comprehensive statistical dataset that integrates sectoral and national accounts, providing detailed insights into economic activities across various industries in different countries.
+- **Project 1:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet1_STAN_db" target="_self">STAN Database</a>_  - The STAN database is a comprehensive statistical dataset that integrates sectoral and national accounts, providing detailed insights into economic activities across various industries in different countries.
 
 
 ### Tools and Technologies
@@ -30,8 +30,5 @@ While these projects are my individual efforts, I am open to collaborations and 
 ### Contact Me
 
 For more information about any of these projects or the course, please don't hesitate to reach out to me:
-
-### Furkan Coban
-- <a href="mailto:ofurkancoban@gmail.com" target="_blank"><img src="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/blob/main/img/email.png" alt="Kaggle"></a>
 - <a href="https://www.linkedin.com/in/ofurkancoban" target="_blank"><img src="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/blob/main/img/in.png" alt="Kaggle"></a>
 - <a href="https://www.kaggle.com/ofurkancoban" target="_blank"><img src="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/blob/main/img/kaggle.png" alt="Kaggle"></a>
