@@ -48,6 +48,6 @@ optimal_alpha
 forecast_cp <- forecast(ses_cp, h = 20)
 plot(forecast_cp)
 
-# 7. Write the equation for each series ----
+# 7. Write the equation for each series. ----
 # SES
 Y[t+1] = α * Y[t] + (1 - α) * Y[t-1]
