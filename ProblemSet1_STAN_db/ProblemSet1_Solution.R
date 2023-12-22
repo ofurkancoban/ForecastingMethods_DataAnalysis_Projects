@@ -9,7 +9,6 @@
 # install.packages("dplyr")
 # install.packages("stringr")
 library(dplyr)
-library(stringr)
 
 # 1. Create a R script file and import the STAN data base.----
 # Reading the STAN database into a variable 'stan' using 'read.csv' function.
