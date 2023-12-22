@@ -18,8 +18,8 @@ Each folder in this repository represents an individual project that I've worked
 - **Project 2:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet2_Germany_Import_Export">Export/Import Germany</a>_  - The dataset contains trade data for Germany. It's used for time series analysis, particularly focusing on exports, imports, and their price indices over time.
 - **Project 3:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet3_Stock_Prices">Stock Prices</a>_  - This is a typical for financial datasets used in the analysis of stock performance over time.
 - **Project 4:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet4_Gas_Station">ARAL Gas Station Data</a>_  - This dataset contains data of a gas station in Oldenburg.
-- - **Project 5:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet5_Australia_Tourists">International Tourists to Australia</a>_  - Quarterly visitor nights spent by international tourists to Australia. 1999-2010.
-- - **Project 6:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet6">Problem Set 6</a>_  - Some forecasting calculations.
+- **Project 5:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet5_Australia_Tourists">International Tourists to Australia</a>_  - Quarterly visitor nights spent by international tourists to Australia. 1999-2010.
+- **Project 6:** _<a href="https://github.com/ofurkancoban/ForecastingMethods_DataAnalysis_Projects/tree/main/ProblemSet6">Problem Set 6</a>_  - Some forecasting calculations.
 
 ### Tools and Technologies
 
